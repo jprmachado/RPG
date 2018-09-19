@@ -1,4 +1,4 @@
-#!C:\Users\jpaulo\PycharmProjects\RPG\venv\Scripts\python.exe
+#!C:\Users\jpaulo\PycharmProjects\batlle\venv\Scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==10.0.1','console_scripts','pip3.5'
 __requires__ = 'pip==10.0.1'
 import re
