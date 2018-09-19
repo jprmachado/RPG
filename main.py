@@ -1,10 +1,14 @@
 from classes.game import Person, bcolors
 from classes.magic import Spell
 
-fire = Spell ("File", 10, 100, "black")
-thunder = Spell ("File", 10, 100, "black")
-fire = Spell ("File", 10, 100, "black")
-fire = Spell ("File", 10, 100, "black")
+#Create Black Magic
+fire = Spell ("Fire", 10, 100, "black")
+thunder = Spell ("Thunder", 10, 100, "black")
+blizzard = Spell ("Blizzard", 10, 100, "black")
+quake = Spell ("Quake", 10, 100, "black")
+meteor = Spell ("Meteor", 10, 100, "black")
+
+
 
 
 magic = [{"name": "Fire", "cost":10, "dmg": 60},
